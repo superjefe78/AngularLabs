@@ -1,5 +1,5 @@
 # Angular Labs
-Labs for the Angular Courses
+Labs for the Angular5 Courses
 
 ## Getting started
 1. [Setup](#setup)

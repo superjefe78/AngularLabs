@@ -1,4 +1,4 @@
-# Angular Labs
+# Angular 5 Labs
 Labs for the Angular 5 Courses
 
 ## Getting started
